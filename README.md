@@ -4,6 +4,7 @@ I'm a full-stack engineer, currently working in a FinTech industry and teaching 
 
 Technology I'm working with most of the time currently:
   - JVM - Kotlin, Scala
+  - TypeScript with React
   - .NET platform with C#
   - JavaScript, Lua
   - C++
