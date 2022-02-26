@@ -18,7 +18,7 @@ Game development and graphics programming enthusiast. Working with self-implemen
   - adding visual scripting for FiveM non-tech developers (Inspired by Unreal Enine blueprint system)
   - Expanding on my previous project - Virtual file system (Rewriting codebase, changes in algorithms and structures used)
   - Diving into Reverse Engineering, currently going through some retro games
-  - Creating TUI for Rust
+  - Creating TUI library for Rust
   - Server-based application, right now I'm implementing GraphQL API with Golang
 
 
