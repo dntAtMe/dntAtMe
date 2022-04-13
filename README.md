@@ -10,14 +10,14 @@ Technology I'm working with most of the time currently:
   - some C++
   - Rust / Golang
 
-Game development and graphics programming enthusiast. Working with self-implemented OpenGL engines, Unreal Engine 5 and Unity3D
-
+Game development and graphics programming enthusiast. Working with self-implemented OpenGL engines, Unreal Engine 5 and Unity3D.
+Also big fan of machine learning and statistical analysis.
 
 🔭 I'm currently working on:
   - scripts for ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
   - adding visual scripting for FiveM non-tech developers (Inspired by Unreal Enine blueprint system)
   - Expanding on my previous project - Virtual file system (Rewriting codebase, changes in algorithms and structures used)
-  - Diving into Reverse Engineering, currently going through some retro games
+  - Diving into Reverse Engineering
   - Creating TUI library for Rust
   - Server-based application, right now I'm implementing GraphQL API with Golang
 
