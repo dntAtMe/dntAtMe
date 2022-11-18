@@ -16,10 +16,10 @@ Also big fan of machine learning and statistical analysis.
 🔭 I'm currently working on:
   - scripts for ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
   - adding visual scripting for FiveM non-tech developers (Inspired by Unreal Enine blueprint system)
-  - Expanding on my previous project - Virtual file system (Rewriting codebase, changes in algorithms and structures used)
+  - Expanding on my previous project - Virtual file system that provides safety based on RAID architecture
   - Diving into Reverse Engineering
-  - Creating TUI library for Rust
-  - Server-based application, right now I'm implementing GraphQL API with Golang
+  - Working on FTP file explorer with React + TypeScript, Tauri and Rust
+  - Web server using Golang and GraphQL
 
 <!--
 **dntAtMe/dntAtMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
