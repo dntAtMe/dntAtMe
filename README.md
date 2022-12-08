@@ -10,16 +10,18 @@ Technology I'm working with most of the time currently:
   - some C++
   - Rust / Golang
 
-Game development and graphics programming enthusiast. Working with self-implemented OpenGL engines, Unreal Engine 5 and Unity3D.
+Game development and graphics programming enthusiast. Working with self-implemented OpenGL engines, Unreal Engine 5 and Unity3D. 
+I tend to look into different games and try to create mods for them.
 Also big fan of machine learning and statistical analysis.
 
 🔭 I'm currently working on:
-  - scripts for ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
-  - adding visual scripting for FiveM non-tech developers (Inspired by Unreal Enine blueprint system)
+  - Scripts for ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
+  - Adding visual scripting for FiveM non-tech developers (Inspired by Unreal Enine blueprint system)
   - Expanding on my previous project - Virtual file system that provides safety based on RAID architecture
   - Diving into Reverse Engineering
   - Working on FTP file explorer with React + TypeScript, Tauri and Rust
-  - Web server using Golang and GraphQL
+  - Discord bot for community with 20K+ members using Golang
+  - Creating modifications for The Witcher 3
 
 <!--
 **dntAtMe/dntAtMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
