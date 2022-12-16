@@ -5,9 +5,9 @@ I'm a full-stack engineer, on a daily basis I'm working with DLT in Financial Te
 Technology I'm working with most of the time currently:
   - JVM - Kotlin, Scala
   - TypeScript with React
-  - .NET platform with C#
+  - .NET platform, C#
   - JavaScript, Lua
-  - some C++
+  - Python
   - Rust / Golang
 
 Game development and graphics programming enthusiast. Working with self-implemented OpenGL engines, Unreal Engine 5 and Unity3D. 
