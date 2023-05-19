@@ -15,9 +15,8 @@ I tend to look into different games and check how they're built.
 Also big fan of machine learning and statistical analysis.
 
 🔭 I'm currently working on:
-  - Scripts for ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
+  - Scripting ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
   - Virtual file system that provides safety based on RAID architecture
-  - playing around with Machine Learning projects
   - Working on FTP file explorer with React + TypeScript, Tauri and Rust
   - Creating modifications for The Witcher 3
 
