@@ -1,6 +1,6 @@
 ## Hey!
 ### About me
-I'm a full-stack engineer, on a daily basis I'm working with DLT in Financial Technology and teaching students basics of Computer Science. When I'm not working I spend a lot of time on my personal projects, trying to learn new technologies and improve on my skillset.
+I'm a full-stack engineer, on a daily basis I'm working with DLT in Financial Technology and teaching students basics of Computer Science. When I'm not working I spend most of my time on personal projects, trying to learn new technologies and improve on my skillset.
 
 Technology I'm working with most of the time currently:
   - JVM - Kotlin, Scala
@@ -16,8 +16,7 @@ Also big fan of machine learning and statistical analysis.
 
 🔭 I'm currently working on:
   - Scripts for ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
-  - Adding visual scripting for FiveM non-tech developers (Inspired by Unreal Enine blueprint system)
-  - Expanding on my previous project - Virtual file system that provides safety based on RAID architecture
+  - Virtual file system that provides safety based on RAID architecture
   - playing around with Machine Learning projects
   - Working on FTP file explorer with React + TypeScript, Tauri and Rust
   - Creating modifications for The Witcher 3
