@@ -18,7 +18,6 @@ Also big fan of machine learning and statistical analysis.
   - Scripting ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
   - Virtual file system that provides safety based on RAID architecture
   - Working on FTP file explorer with React + TypeScript, Tauri and Rust
-  - Creating modifications for The Witcher 3
 
 <!--
 **dntAtMe/dntAtMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
