@@ -16,7 +16,7 @@ Also big fan of machine learning and statistical analysis.
 
 🔭 I'm currently working on:
   - Scripting ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
-  - Virtual file system that provides safety based on RAID architecture
+  - Virtual file system that provides file safety based on RAID architecture
   - Working on FTP file explorer with React + TypeScript, Tauri and Rust
 
 <!--
