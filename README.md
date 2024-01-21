@@ -15,7 +15,6 @@ I tend to look into different games and check how they're built, often diving de
 Also big fan of machine learning and statistical analysis, which is also what I'm currently studying.
 
 🔭 I'm currently working on:
-  - Scripting ([V-Life](https://v-life.pl/)) server hosted on [FiveM](https://fivem.net/) platform
   - Writing a research paper on detection methods for concept drifts in data streams
   - Virtual file system that provides file safety based on RAID architecture
   - Working on FTP file explorer with React + TypeScript, Tauri and Rust
