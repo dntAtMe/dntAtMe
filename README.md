@@ -1,20 +1,13 @@
 ## Hey!
 ### About me
-I'm a full-stack engineer, on a daily basis I'm working with DLT in Financial Technology and teaching students basics of Computer Science. Nightly I work on my personal projects, always trying to learn new technologies and improve my understanding of software engineering.
+I'm a full-stack senior software engineer, on a daily basis I'm working with DLT in Financial Technology and teaching students basics of Computer Science. Nightly I work on my personal projects, always trying to learn new technologies and improve my understanding of engineering and software architecture.
 
 Technology I'm working with most of the time currently:
-  - JVM - Kotlin, Scala
+  - JVM - Kotlin with Corda; Scala3 & ZIO, http4s
   - TypeScript with React
-  - JavaScript, Lua
-  - Python
-  - Rust / Golang
-  - .NET platform, C#
-
-Game development and graphics programming enthusiast. Working with self-implemented OpenGL engines, Unreal Engine 5 and Unity3D. 
-I tend to look into different games and check how they're built, often diving deep into modding world.
-Also big fan of machine learning and statistical analysis, which is also what I'm currently studying.
+  - Python for ML projects and automation, LUA scripting
+  - Rust / Golang on some of my personal projects
 
 🔭 I'm currently working on:
-  - Writing a research paper on detection methods for concept drifts in data streams
   - Virtual file system that provides file safety based on RAID architecture
   - Working on FTP file explorer with React + TypeScript, Tauri and Rust
