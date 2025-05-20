@@ -12,3 +12,4 @@ Technology I'm working with most of the time currently:
   
   - Virtual file system that provides file safety based on RAID architecture
   - Multiplayer framework for GTA San Andreas
+  - Agentic simulation of an office environment
