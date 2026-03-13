@@ -1,6 +1,6 @@
 ## Hey!
 ### About me
-Software engineer, working on Applied ID and Cloud technologies. Big nerd.
+Software engineer, working on Applied AI and Cloud technologies. Big nerd.
 
 Technology I'm working with most of the time:
   - JVM - Kotlin with Corda; Scala3 & ZIO, Cats Effect, http4s & pac4j
